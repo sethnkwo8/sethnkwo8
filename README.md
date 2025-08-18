@@ -32,6 +32,6 @@ Cloud: AWS, Azure (learning)
 📌 Student Accommodation Booking Platform
 
 🔹 Connect With Me
-	•	📧 Email: sethnkwo@yahoo.com
+	•	📧 Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com
 	•	💼 LinkedIn: linkedin.com/in/seth-nkwo
 	•	🌍 Portfolio: (coming soon)
