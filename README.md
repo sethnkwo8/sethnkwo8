@@ -27,7 +27,7 @@ Cloud: AWS, Azure (learning)
 
 🔹 Featured Projects
 
-📌 GymTroll – Gym Management Web App 
+📌 GymTroll – Gym Management Web App https://github.com/sethnkwo8/GymTroll
 📌 TradeCalc – Trading Calculator
 📌 Student Accommodation Booking Platform
 
