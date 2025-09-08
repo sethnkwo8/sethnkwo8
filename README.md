@@ -30,6 +30,7 @@ Cloud: AWS, Azure (learning)
 📌 GymTroll – Gym Management Web App https://github.com/sethnkwo8/GymTroll
 📌 TradeCalc – Trading Calculator https://github.com/sethnkwo8/TradeCalc 
 📌 Student Accommodation Booking Platform https://github.com/sethnkwo8/Student-Accommodation
+
 🔹 Connect With Me
 	•	📧 Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com
 	•	💼 LinkedIn: linkedin.com/in/seth-nkwo
