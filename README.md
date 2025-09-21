@@ -5,6 +5,7 @@
 🎯 Currently exploring how to integrate AI/ML into full-stack projects.
 
 🔹 About Me
+	•	🎓 BSc in Software Engineering
 	•	🎓 Completed Harvard’s CS50x (Computer Science) and CS50P (Python Programming).
 	•	🛠 Hands-on experience in Flask backend development, REST APIs, and frontend design.
 	•	🌍 Built and delivered projects including:
