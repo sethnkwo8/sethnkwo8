@@ -1,7 +1,7 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Software Engineer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Flask, JavaScript, HTML, CSS, SQL with growing expertise in React, Node.js, Django, and Cloud (AWS/Azure).
+🚀 Skilled in Python, Flask, JavaScript, HTML, CSS, SQL, Django with growing expertise in React, Node.js, and Cloud (AWS/Azure).
 🎯 Currently exploring how to integrate AI/ML into full-stack projects.
 
 🔹 About Me
@@ -19,7 +19,7 @@
 🔹 Tech Stack
 
 Languages: Python, JavaScript, C
-Web Development: Flask, HTML, CSS, React (learning), Node.js (learning), Django (learning)
+Web Development: Flask, HTML, CSS, Django, React (learning), Node.js (learning)
 Databases: SQL (PostgreSQL, SQLite)
 Tools: Git, GitHub, Docker (learning)
 Cloud: AWS, Azure (learning)
