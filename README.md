@@ -38,7 +38,11 @@ Cloud: AWS, Azure (learning)
 
 📌 TradeCalc – Trading Calculator https://github.com/sethnkwo8/TradeCalc  
 
-📌 Student Accommodation Booking Platform https://github.com/sethnkwo8/Student-Accommodation
+📌 Student Accommodation Booking Platform - https://github.com/sethnkwo8/Student-Accommodation
+
+📌 Gameday Stats - Football Django Web App https://github.com/sethnkwo8/Gameday-Stats 🔗 **[https://gameday-stats.onrender.com](https://gameday-stats.onrender.com)**
+
+📌 Task Manager API - Task Management REST API https://github.com/sethnkwo8/Task-Manager-API
 
 🔹 Connect With Me
 	•	📧 Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
