@@ -1,17 +1,19 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Software Engineer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Flask, JavaScript, HTML, CSS, SQL, Django with growing expertise in React, Node.js, and Cloud (AWS/Azure).
+🚀 Skilled in Python, Django, JavaScript, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in React, Node.js, and Cloud (AWS/Azure).
 🎯 Currently exploring how to integrate AI/ML into full-stack projects.
 
 🔹 About Me
 	•	🎓 BSc in Software Engineering
 	•	🎓 Completed Harvard’s CS50x (Computer Science) and CS50P (Python Programming).
-	•	🛠 Hands-on experience in Flask backend development, REST APIs, and frontend design.
+	•	🛠 Hands-on experience in Django backend development, REST APIs, and frontend design.
 	•	🌍 Built and delivered projects including:
 	•	🏋️ Gym Management Web App – Flask-based platform with authentication & CRUD.
 	•	📊 TradeCalc Desktop App – Python + Tkinter financial calculator for traders.
 	•	🏠 Student Accommodation Platform – Booking system built with Flask + SQL (client project).
+	•	⚽️ Gameday Stats – Django web application for live scores and match results using PostgreSQL hosted on Render.
+	•	🗒 Task Manager API – Task Management REST API built with Django's REST Framework and JWT Authenthication (SimpleJWT.
 	•	🌱 Currently learning React, Node.js, Docker, and Cloud deployment.
 
 ⸻
@@ -20,11 +22,11 @@
 
 Languages: Python, JavaScript, C  
 
-Web Development: Flask, HTML, CSS, Django, React (learning), Node.js (learning)  
+Web Development: HTML, CSS, Django, Django REST Framework, React (learning), Node.js (learning)  
 
 Databases: SQL (PostgreSQL, SQLite)  
 
-Tools: Git, GitHub, Docker (learning)  
+Tools: Git, GitHub, GitHub Actions, Docker (learning)  
 
 Cloud: AWS, Azure (learning)
 
