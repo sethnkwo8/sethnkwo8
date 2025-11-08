@@ -42,11 +42,11 @@ Cloud: AWS, Azure (learning)
 
 📌 Gameday Stats - Football Django Web App https://github.com/sethnkwo8/Gameday-Stats 
 
-🔗 **[https://gameday-stats.onrender.com](https://gameday-stats.onrender.com)**
+🔗 [https://gameday-stats.onrender.com](https://gameday-stats.onrender.com)
 
 📌 Task Manager API - Task Management REST API https://github.com/sethnkwo8/Task-Manager-API
 
 🔹 Connect With Me
 	•	📧 Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
-	•	💼 LinkedIn: linkedin.com/in/seth-nkwo
+	•	💼 LinkedIn: [linkedin.com/in/seth-nkwo](linkedin.com/in/seth-nkwo)
 	•	🌍 Portfolio: (coming soon)
