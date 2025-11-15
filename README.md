@@ -20,9 +20,9 @@
 
 🔹 Tech Stack
 
-Languages: Python, JavaScript, C  
+Languages: Python, JavaScript (ES6), C programming, HTML5, CSS3 
 
-Web Development: HTML, CSS, Django, Django REST Framework, React (learning), Node.js (learning)  
+Frameworks: Flask, TailwindCSS, Django, Django REST Framework, React (learning), Node.js (learning), JWT Authentication 
 
 Databases: SQL (PostgreSQL, SQLite)  
 
