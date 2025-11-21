@@ -1,6 +1,6 @@
 ## Hi, I'm Seth Nkwo
 
-💻 Full-Stack Software Engineer passionate about building scalable web applications and backend systems.
+💻 Full-Stack Python Developer passionate about building scalable web applications and backend systems.
 🚀 Skilled in Python, Django, JavaScript, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in React, Node.js, and Cloud (AWS/Azure).
 🎯 Currently exploring how to integrate AI/ML into full-stack projects.
 
