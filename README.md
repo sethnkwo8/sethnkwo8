@@ -40,7 +40,7 @@ Cloud: AWS, Azure (learning)
 
 📌 Student Accommodation Booking Platform - https://github.com/sethnkwo8/Student-Accommodation
 
-📌 Gameday Stats - Football Django Web App https://github.com/sethnkwo8/Gameday-Stats  🔗 [https://gameday-stats.onrender.com](https://gameday-stats.onrender.com)
+📌 Gameday Stats - Football Django Web App https://github.com/sethnkwo8/Gameday-Stats 
 
 📌 Task Manager API - Task Management REST API https://github.com/sethnkwo8/Task-Manager-API
 
