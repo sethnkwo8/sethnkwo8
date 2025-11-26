@@ -12,7 +12,7 @@
 	•	🏋️ Gym Management Web App – Flask-based platform with authentication & CRUD.
 	•	📊 TradeCalc Desktop App – Python + Tkinter financial calculator for traders.
 	•	🏠 Student Accommodation Platform – Booking system built with Flask + SQL (client project).
-	•	⚽️ Gameday Stats – Django web application for live scores and match results using PostgreSQL hosted on Render.
+	•	⚽️ Gameday Stats – Django web application for live scores and match results using PostgreSQL previously hosted on Render.
 	•	🗒 Task Manager API – Task Management REST API built with Django's REST Framework and JWT Authenthication (SimpleJWT.
 	•	🌱 Currently learning React, Node.js, Docker, and Cloud deployment.
 
