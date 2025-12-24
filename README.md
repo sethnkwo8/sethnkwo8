@@ -30,7 +30,7 @@ Tools: Git, GitHub, GitHub Actions, Docker (learning)
 
 Cloud: AWS, Azure (learning)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,postgres,postman,githubactions,django,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,postgres,postman,githubactions,django,tailwind,git,flask)](https://skillicons.dev)
 
 ⸻
 
@@ -47,6 +47,6 @@ Cloud: AWS, Azure (learning)
 📌 Task Manager API - Task Management REST API https://github.com/sethnkwo8/Task-Manager-API
 
 🔹 Connect With Me
-	•	📧 Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
-	•	💼 LinkedIn: [linkedin.com/in/seth-nkwo](linkedin.com/in/seth-nkwo)
+	•	[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
+	•	 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)LinkedIn: [linkedin.com/in/seth-nkwo](linkedin.com/in/seth-nkwo)
 	•	🌍 Portfolio: (coming soon)
