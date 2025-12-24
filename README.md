@@ -47,6 +47,6 @@ Cloud: AWS, Azure (learning)
 📌 Task Manager API - Task Management REST API https://github.com/sethnkwo8/Task-Manager-API
 
 🔹 Connect With Me
-	•	[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
-	•	 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)LinkedIn: [linkedin.com/in/seth-nkwo](linkedin.com/in/seth-nkwo)
+	•	✉️ Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
+	•	💼 LinkedIn: [linkedin.com/in/seth-nkwo](linkedin.com/in/seth-nkwo)
 	•	🌍 Portfolio: (coming soon)
