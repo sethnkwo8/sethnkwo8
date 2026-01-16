@@ -31,7 +31,7 @@ Tools: Git, GitHub, GitHub Actions, Docker (learning), Postman
 
 Cloud: AWS, Azure (learning)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,postgres,postman,githubactions,django,tailwind,git,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,postgres,postman,githubactions,django,tailwind,git,flask,vite)](https://skillicons.dev)
 
 ⸻
 
