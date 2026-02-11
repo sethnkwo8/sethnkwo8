@@ -1,55 +1,70 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in Node.js, and Cloud (AWS/Azure).
-🎯 Currently exploring how to integrate AI/ML into full-stack projects.
+🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in TypeScript, Node.js, and Cloud technologies.
+🎯 Interested in integrating AI/ML into full-stack applications.
 
 🔹 About Me
-	•	🎓 BSc in Software Engineering
-	•	🎓 Completed Harvard’s CS50x (Computer Science) and CS50P (Python Programming) and CS50w (Python and JavaScript Web Programming).
-	•	🛠 Hands-on experience in Django backend development, REST APIs, and frontend design.
-	•	⚛️ Building modern frontend applications with React (Hooks, Context, Reducer, React Router) alongside Python/Django backends.
-	•	🌍 Built and delivered projects including:
-	•	🏋️ Gym Management Web App – Flask-based platform with authentication & CRUD.
-	•	📊 TradeCalc Desktop App – Python + Tkinter financial calculator for traders.
-	•	🏠 Student Accommodation Platform – Booking system built with Flask + SQL (client project).
-	•	⚽️ Gameday Stats – Django web application for live scores and match results using PostgreSQL previously hosted on Render.
-	•	🗒 Task Manager API – Task Management REST API built with Django's REST Framework and JWT Authenthication (SimpleJWT.
-	•	🌱 Currently learning Node.js, Docker, and Cloud deployment.
+- 🎓 BSc in Software Engineering  
+- 🎓 Completed Harvard’s CS50x (Computer Science), CS50P (Python Programming), and CS50W (Python & JavaScript Web Programming)  
+- 🛠 Hands-on experience building backend systems with Django & Django REST Framework  
+- ⚛️ Building modern frontend applications with React (Hooks, Context, Reducers, React Router) and TypeScript  
+- 🔐 Experience implementing authentication, authorization, and role-based access control  
+- 🌍 Delivered real-world projects including:
 
-⸻
+  - 🏋️ **GymTroll** – Gym Management Web App (Flask, Auth, CRUD)
+  - 📊 **TradeCalc** – Desktop trading calculator (Python + Tkinter)
+  - 🏠 **Student Accommodation Platform** – Booking system (Flask + SQL, client project)
+  - ⚽ **Gameday Stats** – Django web app for live football scores (PostgreSQL, deployed on Render)
+  - 🗒 **Task Manager API** – REST API with Django REST Framework & JWT Authentication
+  - 🔐 **Role-Based Dashboard** – React + TypeScript app with protected routes and permission-based UI
+
+- 🌱 Currently learning **Next.js, Docker, and Cloud deployment (AWS/Azure)**
+
+---
 
 🔹 Tech Stack
 
-Languages: Python, JavaScript (ES6), C programming, HTML5, CSS3 
+**Languages**  
+Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
-Frameworks: Flask, TailwindCSS, Django, Django REST Framework, React, Node.js (learning), JWT Authentication 
+**Frameworks & Libraries**  
+Django, Django REST Framework, Flask, React, Tailwind CSS, Node.js (learning), JWT Authentication  
 
-Databases: SQL (PostgreSQL, SQLite)  
+**Databases**  
+PostgreSQL, SQLite  
 
-Tools: Git, GitHub, GitHub Actions, Docker (learning), Postman
+**Tools & DevOps**  
+Git, GitHub, GitHub Actions, Postman, Docker (learning)  
 
-Cloud: AWS, Azure (learning)
+**Cloud**  
+AWS, Azure (learning)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,postgres,postman,githubactions,django,tailwind,git,flask,vite)](https://skillicons.dev)
 
-⸻
+---
 
 🔹 Featured Projects
 
-📌 GymTroll – Gym Management Web App https://github.com/sethnkwo8/GymTroll  
+📌 **GymTroll** – Gym Management Web App  
+👉 https://github.com/sethnkwo8/GymTroll  
 
-📌 TradeCalc – Trading Calculator https://github.com/sethnkwo8/TradeCalc  
+📌 **TradeCalc** – Trading Calculator  
+👉 https://github.com/sethnkwo8/TradeCalc  
 
-📌 Student Accommodation Booking Platform - https://github.com/sethnkwo8/Student-Accommodation
+📌 **Student Accommodation Booking Platform**  
+👉 https://github.com/sethnkwo8/Student-Accommodation  
 
-📌 Gameday Stats - Football Django Web App https://github.com/sethnkwo8/Gameday-Stats 
+📌 **Gameday Stats** – Football Django Web App  
+👉 https://github.com/sethnkwo8/Gameday-Stats  
 
-📌 Task Manager API - Task Management REST API https://github.com/sethnkwo8/Task-Manager-API
+📌 **Task Manager API** – REST API with JWT Authentication  
+👉 https://github.com/sethnkwo8/Task-Manager-API  
 
-📌 React Phase 2 – Advanced Hooks & Routing Projects [https://github.com/sethnkwo8/react-phase-2-mini-projects](https://github.com/sethnkwo8/React-Mini-Projects-Phase-2), https://github.com/sethnkwo8/React-Router-Mini-App
+📌 **Role-Based Dashboard** – React + TypeScript  
+👉 https://github.com/sethnkwo8/Role-Based-Dashboard
 
 🔹 Connect With Me
-	•	✉️ Email: sethnkwo@yahoo.com, sethnkwocool@gmail.com  
-	•	💼 LinkedIn: [linkedin.com/in/seth-nkwo](linkedin.com/in/seth-nkwo)
-	•	🌍 Portfolio: (coming soon)
+- ✉️ Email: sethnkwo@yahoo.com | sethnkwocool@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/seth-nkwo  
+- 🌍 Portfolio: Coming soon
