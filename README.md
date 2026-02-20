@@ -1,7 +1,7 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in TypeScript, Node.js, and Cloud technologies.
+🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in TypeScript, Next.js,Node.js, and Cloud technologies.
 🎯 Interested in integrating AI/ML into full-stack applications.
 
 🔹 About Me
@@ -19,7 +19,7 @@
   - 🗒 **Task Manager API** – REST API with Django REST Framework & JWT Authentication
   - 🔐 **Role-Based Dashboard** – React + TypeScript app with protected routes and permission-based UI
 
-- 🌱 Currently learning **Next.js, Docker, and Cloud deployment (AWS/Azure)**
+- 🌱 Currently building production-ready apps with **Next.js(App Router, Server Components)** and expanding into **Docker, and Cloud deployment (AWS/Azure)**
 
 ---
 
@@ -29,7 +29,7 @@
 Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-Django, Django REST Framework, Flask, React, Tailwind CSS, Node.js (learning), JWT Authentication  
+Django, Django REST Framework, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (learning), JWT Authentication  
 
 **Databases**  
 PostgreSQL, SQLite  
