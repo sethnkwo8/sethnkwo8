@@ -1,14 +1,14 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in TypeScript, Next.js,Node.js, and Cloud technologies.
+🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js, and Cloud technologies.
 🎯 Interested in integrating AI/ML into full-stack applications.
 
 🔹 About Me
 - 🎓 BSc in Software Engineering  
 - 🎓 Completed Harvard’s CS50x (Computer Science), CS50P (Python Programming), and CS50W (Python & JavaScript Web Programming)  
 - 🛠 Hands-on experience building backend systems with Django & Django REST Framework  
-- ⚛️ Building modern frontend applications with React (Hooks, Context, Reducers, React Router) and TypeScript  
+- ⚛️ Building server-first applications with Next.js & TypeScript  
 - 🔐 Experience implementing authentication, authorization, and role-based access control  
 - 🌍 Delivered real-world projects including:
 
@@ -40,7 +40,7 @@ Git, GitHub, GitHub Actions, Postman, Docker (learning)
 **Cloud**  
 AWS, Azure (learning)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,postgres,postman,githubactions,django,tailwind,git,flask,vite,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,django,flask,git,githubactions,html,js,nextjs,postgres,postman,py,react,tailwind,ts,vite,vscode)](https://skillicons.dev)
 
 ---
 
