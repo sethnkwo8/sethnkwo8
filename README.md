@@ -17,7 +17,7 @@
   - 🏠 **Student Accommodation Platform** – Booking system (Flask + SQL, client project)
   - ⚽ **Gameday Stats** – Django web app for live football scores (PostgreSQL, deployed on Render)
   - 🗒 **Task Manager API** – REST API with Django REST Framework & JWT Authentication
-  - 🔐 **Role-Based Dashboard** – React + TypeScript app with protected routes and permission-based UI
+  - 📱 **Blog Feed Platform** – Next.js + TypeScript Blog Platform with auth logic
 
 - 🌱 Currently building production-ready apps with **Next.js(App Router, Server Components)** and expanding into **Docker, and Cloud deployment (AWS/Azure)**
 
@@ -61,7 +61,7 @@ AWS, Azure (learning)
 📌 **Task Manager API** – REST API with JWT Authentication  
 👉 https://github.com/sethnkwo8/Task-Manager-API  
 
-📌 **Role-Based Dashboard** – React + TypeScript  
+📌 **Blog Feed Plattform** – Next.js + TypeScript
 👉 https://github.com/sethnkwo8/Role-Based-Dashboard
 
 🔹 Connect With Me
