@@ -29,10 +29,10 @@
 Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-Django, Django REST Framework, Flask, Next.js (App Router), React, Prisma, Tailwind CSS, Node.js (learning), JWT Authentication  
+Django, Django REST Framework, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (learning), JWT Authentication  
 
-**Databases**  
-PostgreSQL, SQLite  
+**Databases & ORM**  
+PostgreSQL, SQLite, Prisma
 
 **Tools & DevOps**  
 Git, GitHub, GitHub Actions, Postman, Docker (learning)  
