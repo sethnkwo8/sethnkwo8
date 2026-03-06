@@ -1,7 +1,7 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js, and Cloud technologies.
+🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL, SQLite), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js, and Cloud technologies.
 🎯 Interested in integrating AI/ML into full-stack applications.
 
 🔹 About Me
