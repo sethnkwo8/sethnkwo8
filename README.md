@@ -67,4 +67,4 @@ AWS, Azure (learning)
 🔹 Connect With Me
 - ✉️ Email: sethnkwo@yahoo.com | sethnkwocool@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/seth-nkwo  
-- 🌍 Portfolio: Coming soon
+- 🌍 Portfolio: https://seth-nkwo.vercel.app
