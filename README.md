@@ -1,7 +1,7 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, JavaScript, React, HTML, CSS, SQL (PostgreSQL, SQLite), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js, and Cloud technologies.
+🚀 Skilled in Python, Django, FastAPI, JavaScript, React, HTML, CSS, SQL (PostgreSQL, SQLite), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js, and Cloud technologies.
 🎯 Interested in integrating AI/ML into full-stack applications.
 
 🔹 About Me
@@ -18,6 +18,7 @@
   - ⚽ **Gameday Stats** – Django web app for live football scores (PostgreSQL, deployed on Render)
   - 🗒 **Task Manager API** – REST API with Django REST Framework & JWT Authentication
   - 📱 **Blog Feed Platform** – Next.js + TypeScript Blog Platform with auth logic
+  - 💰 **Allocare** – Next.js + FastAPI Financial Allocation Web App
 
 - 🌱 Currently building production-ready apps with **Next.js(App Router, Server Components)** and expanding into **Docker, and Cloud deployment (AWS/Azure)**
 
@@ -29,10 +30,10 @@
 Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-Django, Django REST Framework, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (learning), JWT Authentication  
+Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (learning), JWT Authentication  
 
 **Databases & ORM**  
-PostgreSQL, SQLite, Prisma
+PostgreSQL, SQLite, Prisma, SQLModel, SQLAlchemy
 
 **Tools & DevOps**  
 Git, GitHub, GitHub Actions, Postman, Docker (learning)  
@@ -40,11 +41,14 @@ Git, GitHub, GitHub Actions, Postman, Docker (learning)
 **Cloud**  
 AWS, Azure (learning)
 
-[![My Skills](https://skillicons.dev/icons?i=css,django,flask,git,githubactions,html,js,nextjs,postgres,postman,prisma,py,react,sqlite,tailwind,ts,vercel,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,cloudflare,css,django,fastapi,figma,flask,git,githubactions,html,js,nextjs,postgres,postman,prisma,py,react,sqlite,tailwind,ts,vercel,vite,vscode)](https://skillicons.dev)
 
 ---
 
 🔹 Featured Projects
+
+📌 **Allocare** – Full-Stack Financial Allocation App
+👉 https://github.com/sethnkwo8/Allocare
 
 📌 **GymTroll** – Gym Management Web App  
 👉 https://github.com/sethnkwo8/GymTroll  
