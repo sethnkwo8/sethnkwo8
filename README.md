@@ -41,7 +41,7 @@ Git, GitHub, GitHub Actions, Postman, Docker (learning)
 **Cloud**  
 AWS, Azure (learning)
 
-[![My Skills](https://skillicons.dev/icons?i=ai,cloudflare,css,django,fastapi,figma,flask,git,githubactions,html,js,nextjs,postgres,postman,prisma,py,react,sqlite,tailwind,ts,vercel,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,cloudflare,css,django,fastapi,figma,flask,git,githubactions,html,js,mongodb,nextjs,nodejs,postgres,postman,prisma,py,react,sqlite,tailwind,ts,vercel,vite,vscode,)](https://skillicons.dev)
 
 ---
 
