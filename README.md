@@ -1,7 +1,7 @@
 ## Hi, I'm Seth Nkwo
 
 💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, FastAPI, JavaScript, React, HTML, CSS, SQL (PostgreSQL, SQLite), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js, and Cloud technologies.
+🚀 Skilled in Python, Django, FastAPI, JavaScript, React, HTML, CSS, SQL (PostgreSQL, SQLite), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js (Express), MongoDB, and Cloud technologies.
 🎯 Interested in integrating AI/ML into full-stack applications.
 
 🔹 About Me
@@ -19,6 +19,7 @@
   - 🗒 **Task Manager API** – REST API with Django REST Framework & JWT Authentication
   - 📱 **Blog Feed Platform** – Next.js + TypeScript Blog Platform with auth logic
   - 💰 **Allocare** – Next.js + FastAPI Financial Allocation Web App
+  - 💸 **Personal Finance API** - Node.js + MongoDB + TypeScript
 
 - 🌱 Currently building production-ready apps with **Next.js(App Router, Server Components)** and expanding into **Docker, and Cloud deployment (AWS/Azure)**
 
@@ -30,10 +31,10 @@
 Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (learning), JWT Authentication  
+Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (Express), JWT Authentication  
 
 **Databases & ORM**  
-PostgreSQL, SQLite, Prisma, SQLModel, SQLAlchemy
+PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy
 
 **Tools & DevOps**  
 Git, GitHub, GitHub Actions, Postman, Docker (learning)  
@@ -67,6 +68,10 @@ AWS, Azure (learning)
 
 📌 **Blog Feed Plattform** – Next.js + TypeScript + Prisma + SQLite
 👉 https://github.com/sethnkwo8/Next.js-Mini-Projects/tree/main/blog-feed-platform
+
+📌 **Personal Finance API** (Node.js + MongoDB + TypeScript)  
+REST API with JWT authentication, filtering, pagination, and structured error handling  
+👉 https://github.com/sethnkwo8/Personal-Finance-API
 
 🔹 Connect With Me
 - ✉️ Email: sethnkwo@yahoo.com | sethnkwocool@gmail.com  
