@@ -34,7 +34,7 @@ Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3
 Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (Express), JWT Authentication  
 
 **Databases & ORM**  
-PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy
+PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy, Supabase
 
 **Tools & DevOps**  
 Git, GitHub, GitHub Actions, Postman, Docker (learning)  
@@ -42,7 +42,7 @@ Git, GitHub, GitHub Actions, Postman, Docker (learning)
 **Cloud**  
 AWS, Azure (learning)
 
-[![My Skills](https://skillicons.dev/icons?i=ai,cloudflare,css,django,fastapi,figma,flask,git,githubactions,html,js,mongodb,nextjs,nodejs,postgres,postman,prisma,py,react,sqlite,tailwind,ts,vercel,vite,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,cloudflare,css,django,fastapi,figma,flask,git,githubactions,html,js,mongodb,nextjs,nodejs,postgres,postman,prisma,py,react,sqlite,supabase,tailwind,ts,vercel,vite,vscode,)](https://skillicons.dev)
 
 ---
 
