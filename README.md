@@ -31,7 +31,7 @@
 Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (Express), JWT Authentication  
+Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (Express), JWT Authentication, Google OAuth  
 
 **Databases & ORM**  
 PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy, Supabase
