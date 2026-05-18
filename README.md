@@ -1,8 +1,8 @@
 ## Hi, I'm Seth Nkwo
 
-💻 Full-Stack Developer passionate about building scalable web applications and backend systems.
-🚀 Skilled in Python, Django, FastAPI, JavaScript, React, HTML, CSS, SQL (PostgreSQL, SQLite), Django REST Framework with growing expertise in TypeScript, Next.js, Node.js (Express), MongoDB, and Cloud technologies.
-🎯 Interested in integrating AI/ML into full-stack applications.
+💻 Full-Stack Developer passionate about building scalable web applications, backend systems, and modern AI-powered products.  
+🚀 Skilled in Python, TypeScript, JavaScript, Next.js, React, FastAPI, Node.js, and backend API architecture.  
+🎯 Interested in AI-assisted applications, SaaS platforms, cloud infrastructure, and production-grade authentication systems.
 
 🔹 About Me
 - 🎓 BSc in Software Engineering  
@@ -20,8 +20,9 @@
   - 📱 **Blog Feed Platform** – Next.js + TypeScript Blog Platform with auth logic
   - 💰 **Allocare** – Next.js + FastAPI Financial Allocation Web App
   - 💸 **Personal Finance API** - Node.js + MongoDB + TypeScript
+  - 🤖 **ApplySmart (In Development)** - Node.js + MongoDB + TypeScript + Zustand + Google OAuth
 
-- 🌱 Currently building production-ready apps with **Next.js(App Router, Server Components)** and expanding into **Docker, and Cloud deployment (AWS/Azure)**
+- 🌱 Currently building production-ready applications with Next.js (App Router, Server Components), TypeScript, authentication systems, and AI-powered workflows while expanding into Docker and cloud deployment (AWS/Azure).
 
 ---
 
@@ -31,7 +32,7 @@
 Python, JavaScript (ES6+), TypeScript, C, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (Express), JWT Authentication, Google OAuth  
+Django, Django REST Framework, FastAPI, Flask, Next.js (App Router), React, Tailwind CSS, Node.js (Express), JWT Authentication, Google OAuth, Zustand
 
 **Databases & ORM**  
 PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy, Supabase
@@ -47,6 +48,9 @@ AWS, Azure (learning)
 ---
 
 🔹 Featured Projects
+
+📌 **ApplySmart (In Development)** – AI-Powered Resume Optimization Platform  
+👉 https://github.com/sethnkwo8/ApplySmart
 
 📌 **Allocare** – Full-Stack Financial Allocation App
 👉 https://github.com/sethnkwo8/Allocare
