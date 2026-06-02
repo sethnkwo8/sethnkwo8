@@ -20,7 +20,7 @@
   - 📱 **Blog Feed Platform** – Next.js + TypeScript Blog Platform with auth logic
   - 💰 **Allocare** – Next.js + FastAPI Financial Allocation Web App
   - 💸 **Personal Finance API** - Node.js + MongoDB + TypeScript
-  - 🤖 **ApplySmart (In Development)** - Node.js + MongoDB + TypeScript + Zustand + Google OAuth
+  - 🤖 **ApplySmart** - Node.js + MongoDB + TypeScript + Zustand + Google OAuth
 
 - 🌱 Currently building production-ready applications with Next.js (App Router, Server Components), TypeScript, authentication systems, and AI-powered workflows while expanding into Docker and cloud deployment (AWS/Azure).
 
@@ -49,7 +49,7 @@ AWS, Azure (learning)
 
 🔹 Featured Projects
 
-📌 **ApplySmart (In Development)** – AI-Powered Resume Optimization Platform  
+📌 **ApplySmart** – AI-Powered Resume Optimization Platform  
 👉 https://github.com/sethnkwo8/ApplySmart
 
 📌 **Allocare** – Full-Stack Financial Allocation App
@@ -80,4 +80,4 @@ REST API with JWT authentication, filtering, pagination, and structured error ha
 🔹 Connect With Me
 - ✉️ Email: sethnkwo@yahoo.com | sethnkwocool@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/seth-nkwo  
-- 🌍 Portfolio: https://seth-nkwo.vercel.app
+- 🌍 Portfolio: https://www.sethnkwo.space
