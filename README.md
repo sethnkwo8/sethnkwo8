@@ -7,11 +7,12 @@
 🔹 About Me
 - 🎓 BSc in Software Engineering  
 - 🎓 Completed Harvard’s CS50x (Computer Science), CS50P (Python Programming), and CS50W (Python & JavaScript Web Programming)
-- ☁️ **Cloud Infrastructure Mastery:** Hands-on experience provisioning AWS EC2 virtual servers, implementing AWS Security Group firewalls, and managing server network traffic.
+- ☁️ **Cloud Infrastructure Mastery:** Hands-on experience provisioning AWS EC2 virtual servers, implementing AWS Security Group firewalls, and engineering decoupled object storage using secure **AWS S3 buckets**.
 - 🔄 **Nginx Reverse Proxy Deployment:** Experienced in architecting multi-tenant gateways, dynamically routing production HTTPS traffic across separate domains (`applysmart.sethnkwo.space` and `allocare.online`) to isolated underlying Docker containers.
 - 🐳 **Container Orchestration:** Hands-on experience containerizing multi-service applications using Docker and orchestrating full-stack production layers with Docker Compose.
+- 🔑 **Cloud Identity & Access Security:** Experienced in implementing the Principle of Least Privilege by designing custom AWS IAM roles and policies. Proficient in managing secure, credential-less SDK signed requests from Dockerized environments using EC2 Instance Profiles via IMDSv2.
 - 🔒 **Production Security:** Experienced in hardening server endpoints using Certbot and Let's Encrypt to automate SSL/TLS encryption and certificate renewal loops.
-- 🛠 Hands-on experience building backend systems with Django, Django REST Framework, and FastAPI.  
+- 🛠 Hands-on experience building backend systems with Django, Django REST Framework, Node.js(Express) and FastAPI.  
 - ⚛️ Building server-first applications with Next.js & TypeScript.  
 - 🔐 Experience implementing authentication, authorization, and role-based access control (JWT, Google OAuth).  
 - 🌍 Delivered real-world platforms including:
@@ -45,7 +46,7 @@ PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy, Supabase
 Docker, Docker Compose, Nginx, Linux/Terminal, Git, GitHub, GitHub Actions, Postman 
  
 **Cloud & Security** 
-AWS (EC2, Security Groups), Certbot (Let's Encrypt), Azure (learning)
+AWS (EC2, S3, IAM, Security Groups), Certbot (Let's Encrypt), Azure (learning)
 
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,cloudflare,css,django,docker,fastapi,figma,flask,git,githubactions,html,js,mongodb,nextjs,nginx,nodejs,postgres,postman,prisma,py,react,sqlite,supabase,tailwind,ts,vercel,vite,vscode,)](https://skillicons.dev)
 
@@ -54,7 +55,7 @@ AWS (EC2, Security Groups), Certbot (Let's Encrypt), Azure (learning)
 🔹 Featured Projects
 
 📌 **ApplySmart** – AI-Powered Resume Optimization Platform (AWS Deployed)  
-Multi-container production application orchestrated via Docker Compose on an AWS EC2 instance. Leverages an Nginx reverse proxy for secure TLS/SSL data transmission, Zod schema-enforced Gemini interactions, multi-provider OAuth, and user-prioritized identity rate limiting.  
+Multi-container production application orchestrated via Docker Compose on an AWS EC2 instance. Features a decoupled cloud storage layer using **AWS S3** and **AWS SDK v3** via secure IAM metadata authentication. Leverages an Nginx reverse proxy for secure TLS/SSL data transmission, structured Gemini JSON schemas, and target database dictionary mapping for skill seeds.  
 👉 https://github.com/sethnkwo8/ApplySmart
 
 📌 **Allocare** – Full-Stack Financial Allocation App (AWS Deployed)  
