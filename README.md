@@ -46,7 +46,7 @@ PostgreSQL, SQLite, MongoDB, Prisma, SQLModel, SQLAlchemy, Supabase
 Docker, Docker Compose, Nginx, Linux/Terminal, Git, GitHub, GitHub Actions, Postman 
  
 **Cloud & Security** 
-AWS (EC2, S3, IAM, Security Groups), Certbot (Let's Encrypt), Azure (learning)
+AWS (EC2, S3, Route 53, IAM, ALB, Security Groups), Certbot (Let's Encrypt), Azure (learning)
 
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,cloudflare,css,django,docker,fastapi,figma,flask,git,githubactions,html,js,mongodb,nextjs,nginx,nodejs,postgres,postman,prisma,py,react,sqlite,supabase,tailwind,ts,vercel,vite,vscode,)](https://skillicons.dev)
 
